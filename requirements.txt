@@ -1,9 +1,8 @@
+streamlit
 pandas
 numpy
-openpyxl
-matplotlib
-seaborn
-scikit-learn
-mlxtend
-streamlit
 plotly
+mlxtend
+scikit-learn
+networkx
+openpyxl
